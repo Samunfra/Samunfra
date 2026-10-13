@@ -4,7 +4,7 @@
 
 ### Systèmes, Cloud & Virtualisation
 
-Diplômé d'un Mastère en Systèmes, Réseaux et Cloud Computing à l'ESGI, je m'intéresse à l'administration des systèmes, à la virtualisation et aux infrastructures Cloud.
+Ingénieur Systèmes & Cloud, diplômé d'un Mastère en Systèmes, Réseaux et Cloud Computing. Mon parcours couvre l'administration des environnements Microsoft, la gestion des identités, la virtualisation et la supervision des infrastructures. Certifié Azure Administrator Associate et Google Cloud Digital Leader, je m'oriente vers la conception et l'automatisation d'infrastructures Cloud et hybrides.
 
 </div>
 
